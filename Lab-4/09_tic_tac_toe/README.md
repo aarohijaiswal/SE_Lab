@@ -1,4 +1,4 @@
-Link to the forked repo with all the commits: https://github.com/aarohijaiswal/09_tic_tac_toe.git
+# Link to the forked repo with all the commits: https://github.com/aarohijaiswal/09_tic_tac_toe.git
 
 # Tic-Tac-Toe Lab
 
